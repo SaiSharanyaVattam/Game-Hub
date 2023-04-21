@@ -1,6 +1,7 @@
 DESCRIPTION OF PROJECT:
 
 This project consists of three games:
+
 1.Maze game
 
 2.Rock paper scissor
